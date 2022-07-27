@@ -1,1 +1,1 @@
-# .github
+![Commander Logo](profile/CommanderLogo.svg)
