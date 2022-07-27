@@ -1,1 +1,1 @@
-# Commander
+![Commander Logo](CommanderLogo.svg)
